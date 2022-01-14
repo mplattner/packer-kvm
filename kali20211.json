@@ -13,7 +13,7 @@
       "config_file": "kali-preseed.cfg",
       "ssh_username": "kali",
       "ssh_password": "kali",
-      "destination_server": "download.goffinet.org"
+      "destination_server": ""
     },
   "builders": [
     {

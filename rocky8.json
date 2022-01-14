@@ -13,7 +13,7 @@
       "config_file": "rocky8-kickstart.cfg",
       "ssh_username": "root",
       "ssh_password": "testtest",
-      "destination_server": "download.goffinet.org"
+      "destination_server": ""
     },
   "builders": [
     {
